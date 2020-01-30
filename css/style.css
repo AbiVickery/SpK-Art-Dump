@@ -1,5 +1,11 @@
 body {
     text-align: center;
+    background: rgb(11,129,70);
+    background: linear-gradient(148deg, rgba(11,129,70,1) 0%, rgba(36,78,148,1) 51%, rgba(233,70,193,1) 100%);
+}
+
+.mlp {
+    color: pink;
 }
 
 #bobb {
@@ -10,6 +16,10 @@ body {
     border-radius: 0%;
 }
 
+.httyd{
+    color: orangered;
+}
+
 #purLiFu {
     border-radius: 5%;
 }
@@ -18,10 +28,18 @@ body {
     border-radius: 5%;
 }
 
+.zepeto{
+    color: greenyellow;
+}
+
 #zepeto1 {
     border-radius: 10%;
 }
 
 #zepeto2 {
     border-radius: 10%;
+}
+
+#other {
+    color: purple;
 }
