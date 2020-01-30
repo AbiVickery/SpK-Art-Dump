@@ -5,6 +5,17 @@ body {
     background: linear-gradient(148deg, rgba(11,129,70,1) 0%, rgba(36,78,148,1) 51%, rgba(233,70,193,1) 100%);
 }
 
+h1 {
+    background: -webkit-linear-gradient(#f0824f, #419756);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#basic {
+    background: -webkit-linear-gradient(#ad28ad, #3835cf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .mlp {
     color: pink;
 }
@@ -46,5 +57,7 @@ body {
 }
 
 #atom {
-    
+    background: -webkit-linear-gradient(#264d2d, #632642);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
