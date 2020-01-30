@@ -1,3 +1,27 @@
 body {
     text-align: center;
 }
+
+#bobb {
+    border-radius: 50%;
+}
+
+#walker {
+    border-radius: 0%;
+}
+
+#purLiFu {
+    border-radius: 5%;
+}
+
+#pinkEye {
+    border-radius: 5%;
+}
+
+#zepeto1 {
+    border-radius: 10%;
+}
+
+#zepeto2 {
+    border-radius: 10%;
+}
