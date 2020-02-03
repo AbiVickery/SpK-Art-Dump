@@ -32,14 +32,8 @@ h1 {
     color: orangered;
 }
 
-#purLiFu {
-    border-radius: 5%;
-}
-
-#pinkEye {
-    border-radius: 5%;
-}
-
+#purLiFu,
+#pinkEye,
 #redPan {
     border-radius: 5%;
 }
